@@ -13,7 +13,7 @@ class Gsicons {
   static const String _fontFamily = 'gsicons';
 
   static const IconData view_gallery =
-      IconData(0xea54, fontFamily: _fontFamily);
+      IconData(0xea54, fontFamily: _fontFamily, fontPackage: 'gs_icons');
   static const IconData view_grid = IconData(0xea94, fontFamily: _fontFamily);
   static const IconData kakaotalk_simple =
       IconData(0xead5, fontFamily: _fontFamily);
