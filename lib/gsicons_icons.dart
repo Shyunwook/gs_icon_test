@@ -18,7 +18,7 @@ class Gsicons {
   static const IconData kakaotalk_simple =
       IconData(0xead5, fontFamily: _fontFamily);
   static const IconData naver_simple =
-      IconData(0xeb9a, fontFamily: _fontFamily);
+      IconData(0xeb9a, fontFamily: _fontFamily, fontPackage: 'gs_icons');
   static const IconData pop_up = IconData(0xeb9b, fontFamily: _fontFamily);
   static const IconData abandoned_cart =
       IconData(0xe900, fontFamily: _fontFamily);
